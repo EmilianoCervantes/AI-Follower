@@ -23,7 +23,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80187cb7-c490-4f82-bb07-9464e9993059" name="Default Changelist" comment="" />
+    <list default="true" id="80187cb7-c490-4f82-bb07-9464e9993059" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +48,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1576" />
+          <entry key="cs" value="1591" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1576" />
+          <entry key="C#" value="1591" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -96,21 +98,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            <state relative-caret-position="450">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
-                <marker date="1537568754230" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537568754230" expanded="true" signature="123:2255" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="295:314" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="356:910" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="382:531" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="574:711" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="736:895" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="964:2253" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="1275:1390" ph="/* Debug.Log(&quot;Color pixel en follower: &quot; + Floor.noiseTex.GetPixel(texPosX, texPosZ)); ... */" />
-                <marker date="1537568754230" expanded="true" signature="1601:1912" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="1963:2017" ph="{...}" />
-                <marker date="1537568754230" expanded="true" signature="2076:2250" ph="/* if(counter % 30 == 0) ... */" />
+                <marker date="1537572962491" expanded="true" signature="6:78" ph="..." />
+                <marker date="1537572962491" expanded="true" signature="124:853" ph="{...}" />
+                <marker date="1537572962491" expanded="true" signature="224:243" ph="{...}" />
+                <marker date="1537572962491" expanded="true" signature="303:851" ph="{...}" />
+                <marker date="1537572962491" expanded="true" signature="671:848" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -148,6 +143,9 @@
       <find>CalcNoise</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -174,6 +172,7 @@
     <option name="width" value="1346" />
     <option name="height" value="674" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -250,12 +249,12 @@
       <workItem from="1537311269009" duration="1289000" />
       <workItem from="1537313687656" duration="1720000" />
       <workItem from="1537491544581" duration="11443000" />
-      <workItem from="1537572175925" duration="525000" />
+      <workItem from="1537572175925" duration="783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17341000" />
+    <option name="totallyTimeSpent" value="17599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,6 +267,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.083207265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,21 +358,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        <state relative-caret-position="450">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <marker date="1537568754230" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537568754230" expanded="true" signature="123:2255" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="295:314" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="356:910" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="382:531" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="574:711" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="736:895" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="964:2253" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="1275:1390" ph="/* Debug.Log(&quot;Color pixel en follower: &quot; + Floor.noiseTex.GetPixel(texPosX, texPosZ)); ... */" />
-            <marker date="1537568754230" expanded="true" signature="1601:1912" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="1963:2017" ph="{...}" />
-            <marker date="1537568754230" expanded="true" signature="2076:2250" ph="/* if(counter % 30 == 0) ... */" />
+            <marker date="1537572962491" expanded="true" signature="6:78" ph="..." />
+            <marker date="1537572962491" expanded="true" signature="124:853" ph="{...}" />
+            <marker date="1537572962491" expanded="true" signature="224:243" ph="{...}" />
+            <marker date="1537572962491" expanded="true" signature="303:851" ph="{...}" />
+            <marker date="1537572962491" expanded="true" signature="671:848" ph="{...}" />
           </folding>
         </state>
       </provider>
