@@ -23,9 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80187cb7-c490-4f82-bb07-9464e9993059" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ExtraCharacter.cs" afterDir="false" />
-    </list>
+    <list default="true" id="80187cb7-c490-4f82-bb07-9464e9993059" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <session id="-384167650">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.100" value="1" />
           <entry key="project.open.time.179" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -249,12 +247,12 @@
       <workItem from="1537311269009" duration="1289000" />
       <workItem from="1537313687656" duration="1720000" />
       <workItem from="1537491544581" duration="11443000" />
-      <workItem from="1537572175925" duration="783000" />
+      <workItem from="1537572175925" duration="813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17599000" />
+    <option name="totallyTimeSpent" value="17629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +265,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.083207265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
